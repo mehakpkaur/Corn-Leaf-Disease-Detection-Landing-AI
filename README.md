@@ -13,7 +13,6 @@ The system identifies common corn leaf conditions using image-based classificati
 
 This project focuses on the automatic classification of maize (corn) leaf images into different disease categories using the **Landing AI platform**.  
 It aims to assist in **early disease detection**, which is crucial for improving crop yield and reducing agricultural losses.
-
 The model classifies leaves into the following categories:
 - **Healthy**
 - **Common Rust**
@@ -25,7 +24,6 @@ The model classifies leaves into the following categories:
 ## Methodology
 
 The workflow followed in this project includes:
-
 1. **Data Collection** – Gathering maize leaf images from standard datasets  
 2. **Data Labelling** – Categorizing images into disease classes  
 3. **Model Training** – Training an image classification model using Landing AI  
